@@ -3,6 +3,8 @@
 ## 1. Executive Summary
 This project is a **Retrieval-Augmented Generation (RAG) Support Assistant** designed to resolve technical support queries by combining private internal documentation with public knowledge. The system is built for **privacy and autonomy**, utilizing local Large Language Models (LLMs) via Ollama to ensure no sensitive internal data leaves the user's infrastructure.
 
+## DEMO: [https://www.youtube.com/watch?v=UADxgk2ACZE](https://www.youtube.com/watch?v=UADxgk2ACZE)
+
 ## 2. Technology Stack
 
 ### Frontend & Application Framework
